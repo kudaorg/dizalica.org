@@ -1,0 +1,66 @@
+.img_Text {
+	border : 0px solid black;
+	padding : 10px;
+	float : left;
+	font-family : Arial, Helvetica, sans-serif;
+	text-alignment : Justify;
+}
+
+.mi {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : small;
+	font-weight : bold;
+	color : Black;
+	cursor : pointer;
+}
+
+.dir {
+	font-family : Arial, Helvetica, sans-serif;
+	color : Maroon;
+	text-decoration : none;
+	font-size : 14px;
+	cursor : pointer;
+	font-weight : bold;
+}
+
+.img_link{
+	font-family : Arial, Helvetica, sans-serif;
+	color : Maroon;
+	text-decoration : none;
+	font-size : 11px;
+	cursor : pointer;
+	font-weight : normal;
+}
+
+.img_linkB{
+	font-family : Arial, Helvetica, sans-serif;
+	color : Maroon;
+	text-decoration : none;
+	font-size : 11px;
+	cursor : pointer;
+	font-weight : bold;
+	letter-spacing : 1px;
+}
+.text{
+	font-family : Arial, Helvetica, sans-serif;
+	color : Black;
+	text-decoration : none;
+	font-size : medium;
+	cursor : default;
+}
+
+.link {
+	color : black;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : small;
+	cursor : hand;
+	text-decoration : underline;
+	font-style : italic;
+	}
+.link_TXT {
+	color : black;
+	font-family : Arial, Helvetica, sans-serif;
+	cursor : hand;
+	text-decoration : underline;
+	}	
+}
