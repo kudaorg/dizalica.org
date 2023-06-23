@@ -75,10 +75,10 @@ pre a:hover {
     list-style: none;
     padding: 0;
 }
-.gallery > li {
+.gallery a {
     flex-basis: 300px; /* width: 300px; */
 }
-.gallery li img {
+.gallery a img {
     object-fit: cover;
     max-width: 100%;
     height: auto;
